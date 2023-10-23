@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject.Specs/EdaYucel_BKProject.Specs.csproj": {}
+  },
+  "projects": {
+    "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject.Specs/EdaYucel_BKProject.Specs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject.Specs/EdaYucel_BKProject.Specs.csproj",
+        "projectName": "EdaYucel_BKProject.Specs",
+        "projectPath": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject.Specs/EdaYucel_BKProject.Specs.csproj",
+        "packagesPath": "/Users/edasanin/.nuget/packages/",
+        "outputPath": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject.Specs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edasanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject/EdaYucel_BKProject.csproj": {
+                "projectPath": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject/EdaYucel_BKProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.22, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject/EdaYucel_BKProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject/EdaYucel_BKProject.csproj",
+        "projectName": "EdaYucel_BKProject",
+        "projectPath": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject/EdaYucel_BKProject.csproj",
+        "packagesPath": "/Users/edasanin/.nuget/packages/",
+        "outputPath": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edasanin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.415/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

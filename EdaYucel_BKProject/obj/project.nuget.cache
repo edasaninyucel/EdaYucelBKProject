@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BvDBWAzu7gMqKnWlau+Pfw+/p/8UHJ/M2WXTy7W6ASRbl/Q57WRr14PaH9CcxmqSJRs600FUQTXuCsEpj52wA==",
+  "success": true,
+  "projectFilePath": "/Users/edasanin/Documents/EdaYucel_BKProject/EdaYucel_BKProject/EdaYucel_BKProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/edasanin/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/edasanin/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/edasanin/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/edasanin/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

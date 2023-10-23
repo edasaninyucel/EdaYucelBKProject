@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaYucel_BKProject", "EdaYucel_BKProject\EdaYucel_BKProject.csproj", "{016AA3C3-2A0A-467A-A470-373E09B041BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdaYucel_BKProject.Specs", "EdaYucel_BKProject.Specs\EdaYucel_BKProject.Specs.csproj", "{5E3BB453-7889-4247-ADBC-F54F548ADB73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016AA3C3-2A0A-467A-A470-373E09B041BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016AA3C3-2A0A-467A-A470-373E09B041BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016AA3C3-2A0A-467A-A470-373E09B041BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016AA3C3-2A0A-467A-A470-373E09B041BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3BB453-7889-4247-ADBC-F54F548ADB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3BB453-7889-4247-ADBC-F54F548ADB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3BB453-7889-4247-ADBC-F54F548ADB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3BB453-7889-4247-ADBC-F54F548ADB73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

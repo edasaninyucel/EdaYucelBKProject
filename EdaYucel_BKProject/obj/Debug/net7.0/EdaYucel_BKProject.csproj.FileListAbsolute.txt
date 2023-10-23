@@ -1,0 +1,14 @@
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/bin/Debug/net7.0/EdaYucel_BKProject
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/bin/Debug/net7.0/EdaYucel_BKProject.deps.json
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/bin/Debug/net7.0/EdaYucel_BKProject.runtimeconfig.json
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/bin/Debug/net7.0/EdaYucel_BKProject.dll
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/bin/Debug/net7.0/EdaYucel_BKProject.pdb
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/EdaYucel_BKProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/EdaYucel_BKProject.AssemblyInfoInputs.cache
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/EdaYucel_BKProject.AssemblyInfo.cs
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/EdaYucel_BKProject.csproj.CoreCompileInputs.cache
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/EdaYucel_BKProject.dll
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/refint/EdaYucel_BKProject.dll
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/EdaYucel_BKProject.pdb
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/EdaYucel_BKProject.genruntimeconfig.cache
+/Users/edasanin/EdaYucel_specflowrestsharp/EdaYucel_BKProject/EdaYucel_BKProject/obj/Debug/net7.0/ref/EdaYucel_BKProject.dll
